@@ -1,0 +1,4 @@
+content to this file 
+1. Introduction
+Software Configuration Management (SCM) is a disciplined framework used to control, track, and manage software artifacts throughout the software development lifecycle. These artifacts include source code, configuration files, documentation, test scripts, build definitions, and deployment packages.
+In large-scale distributed systems such as Netflix, software is updated continuously while millions of users stream content at the same time. Any uncontrolled change can lead to service disruption, performance degradation, or system instability. SCM provides the structure needed to manage this complexity by ensuring:
